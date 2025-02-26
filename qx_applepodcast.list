@@ -1,0 +1,15 @@
+HOST,fpinit.itunes.apple.com,Podcast
+HOST,entitlements-edge.itunes.apple.com,Podcast
+HOST,setup.icloud.com,Podcast
+HOST,play.itunes.apple.com,Podcast
+HOST,bag.itunes.apple.com,Podcast
+HOST,bookkeeper.itunes.apple.com,Podcast
+HOST,amp-api.podcast.apple.com,Podcast
+HOST,podcasts.apple.com,Podcast
+HOST,lookup-api.apple.com,Podcast
+HOST,xp.apple.com,Podcast
+HOST-SUFFIX,podcast.apple.com,Podcast
+HOST,past.im,Podcast
+HOST,amp-api.podcasts.apple.com,Podcast
+HOST,itunes.apple.com,Podcast
+HOST,buy.itunes.apple.com,Podcast
